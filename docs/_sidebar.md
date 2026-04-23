@@ -1,12 +1,19 @@
 <!-- docs/_sidebar.md -->
-
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+- [Sobre o projeto](README.md)
+- [Código de conduta](CODE_OF_CONDUCT.md)
+- [Como contribuir](CONTRIBUTING.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
-    - [2.1. Modelagem UML Estática](/docs/Modelagem/2.1.ModelagemEstatica.md)
-    - [2.2. Modelagem UML Dinâmica](/docs/Modelagem/2.2.ModelagemDinamica.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/docs/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
-    - [2.4. Participações - Modelagem](/docs/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](/docs/Modelagem/2.5.IniciativasExtras.md)
+  - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
+    - [2.1 Modelagem Estática](./Modelagem/2.1ModelagemEstatica.md)
+      - [2.1.1 Diagrama de Classes](./Modelagem/2.1.1DiagramadeClasses.md)
+      - [2.1.2 Diagrama de Componentes](./Modelagem/2.1.2DiagramadeComponentes.md)
+    - [2.2 Modelagem Dinâmica](./Modelagem/2.2ModelagemDinamica.md)
+      - [2.2.1 Diagrama de Estados](./Modelagem/2.2.1DiagramadeEstados.md)
+      - [2.2.2 Diagrama de Atividades](./Modelagem/2.2.2DiagramadeAtividades.md)
+    - [2.3 Modelagem Organizacional](./Modelagem/2.3ModelagemOrganizacional.md)
+      - [2.3.1 Casos de Uso](./Modelagem/2.3.1CasosdeUso.md)
+      - [2.3.2 Diagrama de Pacotes](./Modelagem/2.3.2DiagramadePacotes.md)
+    - [2.4 Participações](./Modelagem/2.4Participacoes.md)
+    - [2.5 Iniciativas Extras](./Modelagem/2.5IniciativasExtras.md)
+
