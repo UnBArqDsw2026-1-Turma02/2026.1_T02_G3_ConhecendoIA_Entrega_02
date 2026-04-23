@@ -38,7 +38,7 @@ O projeto está sendo desenvolvido pelo Grupo 03 da disciplina de Arquitetura e 
 ![Diagrama de Estados](./assets/DiagramaEstados.png)
 
 ### Diagrama de Atividades
-![Diagrama de Atividades](./assets/diagrama_de_atividades.png)
+![Diagrama de Atividades](./assets/diagrama_de_atividade.png)
 
 ### Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](./assets/)
