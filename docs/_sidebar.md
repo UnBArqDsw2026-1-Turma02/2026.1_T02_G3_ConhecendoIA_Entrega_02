@@ -16,4 +16,7 @@
       - [2.3.2 Diagrama de Pacotes](./Modelagem/2.3.2DiagramadePacotes.md)
     - [2.4 Participações](./Modelagem/2.4Participacoes.md)
     - [2.5 Iniciativas Extras](./Modelagem/2.5IniciativasExtras.md)
+      - [2.5.1 Ferramentas](./Modelagem/2.5.1Ferramentas.md)
+      - [2.5.2 Cronograma](./Modelagem/2.5.2Cronograma.md)
+      - [2.5.3 Heatmap](./Modelagem/2.5.3Heatmap)
 
