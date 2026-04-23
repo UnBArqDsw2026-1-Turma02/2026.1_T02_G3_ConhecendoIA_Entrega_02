@@ -19,7 +19,7 @@ Os mantenedores do projeto são responsáveis por esclarecer os padrões de comp
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 05/04/2026 | Criação do documento| [Ingrid Alves](https://github.com/alvesingrid) | [Guilherme Gusmão ](https://github.com/gusmoles) |
+| 1.0 | 23/04/2026 | Criação do documento| [Ingrid Alves](https://github.com/alvesingrid) | [Guilherme Gusmão ](https://github.com/gusmoles) |
 
 ### Referências
 
