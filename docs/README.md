@@ -28,23 +28,23 @@ O projeto está sendo desenvolvido pelo Grupo 03 da disciplina de Arquitetura e 
 
 ## Screenshots da Primeira Entrega
 
-### Mapa Mental
-![Mapa Mental](./assets/unpack-map.jpeg)
+### Diagrama de Classes
+![Diagrama de Classes](./assets/)
 
-### Rich Picture
-![Rich Picture](./assets/RichPicture.png)
+### Diagrama de Componentes
+![Diagrama de Componentes](./assets/)
 
-### Diagrama de Causa e Efeito (1)
-![Diagrama de Causa e Efeito 1](./assets/diagrama1.jpeg)
+### Diagrama de Estados
+![Diagrama de Estados](./assets/DiagramaEstados.png)
 
-### Diagrama de Causa e Efeito (2)
-![Diagrama de Causa e Efeito 2](./assets/diagrama2.jpeg)
+### Diagrama de Atividades
+![Diagrama de Atividades](./assets/diagrama_de_atividades.png)
 
-### Protótipo de Alta Fidelidade
-![Protótipo de Alta Fidelidade](./assets/Prototipo.png)
+### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](./assets/)
 
-### Modelagem BPMN: Scrum
-![Modelagem BPMN: Scrum](./assets/BPMN_Scrum.jpeg)
+### Diagrama de Pacotes
+![Diagrama de Pacotes](./assets/)
 
 ## Há algo a ser executado?
 
