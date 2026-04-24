@@ -5,16 +5,16 @@
 * **Local:** Discord 
 * **Participantes:** João Fonseca, Guilherme Gusmão, Mariana, Arthur Fernandes e João Capozzi 
 
-### Pauta
+## Pauta
 1. Início da modelagem do diagrama de Classes
 2. Definição e mapeamento das classes fundamentais para o funcionamento do projeto.
 
-### Notas de Discussão
+## Notas de Discussão
 * Foi discutido como seria definido as classes que irá compor o sistema.
 
 ---
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--- | :--- | :--- | :--- | :--- |

@@ -5,16 +5,16 @@
 * **Local:** Discord 
 * **Participantes:** Todos os membros do grupo: Vinícius Ribeiro, Davi Rodrigues, Ingrid Alvez, Marcos Quixabeira, Caio Vilas Boas.
 
-### Pauta
+## Pauta
 1. Início da construção do diagrama de componentes.
 2. Estruturar a arquitetura de software, definindo as interfaces e os componentes lógicos e físicos do sistema.
 
-### Notas de Discussão
+## Notas de Discussão
 * Foi discutido quais os principais componentes iriam estruturar o projeto.
 
 ---
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--- | :--- | :--- | :--- | :--- |

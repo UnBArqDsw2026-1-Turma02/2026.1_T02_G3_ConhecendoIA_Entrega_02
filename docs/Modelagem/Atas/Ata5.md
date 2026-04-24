@@ -5,16 +5,16 @@
 * **Local:** Discord 
 * **Participantes:** Vinícius Ribeiro, Davi Rodrigues, Ingrid Alves, Arthur Fernandes, Mariana Pereira.
 
-### Pauta
+## Pauta
 1. Início da construção do diagrama de Atividades.
 2. Desenhar o fluxo de atividades passo a passo para o processo principal do usuário: Criação de um Tópico e Interação com a Comunidade.
 
-### Notas de Discussão
+## Notas de Discussão
 * Foi discutido como seria mapeado o fluxo das etapas, desde a entrada no site até o engajamento com o conteúdo.
 
 ---
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--- | :--- | :--- | :--- | :--- |
