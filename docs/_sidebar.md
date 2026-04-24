@@ -19,4 +19,13 @@
       - [2.5.1 Ferramentas](./Modelagem/2.5.1Ferramentas.md)
       - [2.5.2 Cronograma](./Modelagem/2.5.2Cronograma.md)
       - [2.5.3 Heatmap](./Modelagem/2.5.3Heatmap)
+- **Atas**
+  - [1. Ata-20/04/2026](./Modelagem/Atas/Ata1.md)
+  - [2. Ata-21/04/2026](./Modelagem/Atas/Ata2.md)
+  - [3. Ata-21/04/2026](./Modelagem/Atas/Ata3.md)
+  - [4. Ata-22/04/2026](./Modelagem/Atas/Ata4.md)
+  - [5. Ata-22/04/2026](./Modelagem/Atas/Ata5.md)
+  - [6. Ata-23/04/2026](./Modelagem/Atas/Ata6.md)
+  
+
 
