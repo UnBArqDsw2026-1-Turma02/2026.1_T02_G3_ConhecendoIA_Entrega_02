@@ -29,22 +29,22 @@ O projeto está sendo desenvolvido pelo Grupo 03 da disciplina de Arquitetura e 
 ## Screenshots da Segunda Entrega
 
 ### Diagrama de Classes
-![Diagrama de Classes](./assets/)
+![Diagrama de Classes](./assets/DiagramaClasses.jpeg)
 
 ### Diagrama de Componentes
-![Diagrama de Componentes](./assets/)
+![Diagrama de Componentes](./assets/diagrama_de_componentes.png)
 
 ### Diagrama de Estados
 ![Diagrama de Estados](./assets/DiagramaEstados.png)
 
 ### Diagrama de Atividades
-![Diagrama de Atividades](./assets/diagrama_de_atividade.png)
+![Diagrama de Atividades](./assets/DiagramaDeAtividade.jpg)
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./assets/)
+![Diagrama de Casos de Uso](./assets/diagrama_casos_de_uso.jpg)
 
 ### Diagrama de Pacotes
-![Diagrama de Pacotes](./assets/)
+![Diagrama de Pacotes](./assets/diagrama_de_pacotes.jpg)
 
 ## Há algo a ser executado?
 
